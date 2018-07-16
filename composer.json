@@ -1,12 +1,12 @@
 {
 	"name":"amd/test",
 	"description":"",
-	"keywords":["amd/test"],
+	"keywords":["amd_test","amd"],
 	"type":"package",
     "require": {
         "guzzlehttp/guzzle": "^6.2"
     },
-	"license":"",
+	"license":"proprietary",
 	"authors":[{
 		"name":"amd",
 		"email":"amdamdxyzxyz@gmail.com"
