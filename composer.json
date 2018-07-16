@@ -1,15 +1,15 @@
 {
 	"name":"amd/test",
 	"description":"",
-	"keywords":"",
+	"keywords":["amd/test"],
 	"type":"package",
     "require": {
         "guzzlehttp/guzzle": "^6.2"
     },
 	"license":"",
 	"authors":[{
-		"name":"",
-		"email":""
+		"name":"amd",
+		"email":"amdamdxyzxyz@gmail.com"
 	}],
 	"autoload":{
 		"psr-4":{
