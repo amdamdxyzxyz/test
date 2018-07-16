@@ -1,0 +1,21 @@
+{
+	"name":"",
+	"description":"",
+	"keywords":"",
+	"type":"package",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+	"license":"",
+	"authors":[{
+		"name":"",
+		"email":""
+	}],
+	"autoload":{
+		"psr-4":{
+			"Test\\":"Test/"
+		}
+	},
+	"version":"",
+	"minimum-stability":"dev"
+}
